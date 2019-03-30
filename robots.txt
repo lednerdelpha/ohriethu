@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eicaekeeph.libreprojects.net/sitemap.xml
